@@ -76,4 +76,22 @@ img {
     font-size: 16px;
     font-weight: bold;
     }
+    .imgone {
+        width: 350px;
+        height: 250px;
+        clear: right;
+        margin-right: 80px;
+    }
+    .imgtwo {
+        width: 350px;
+        height: 250px;
+        clear: right;
+    }
+    p, h1 {
+        clear: right;
+    }
+    h1 {
+        text-align: center;
+    }
 }
+
