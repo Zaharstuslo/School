@@ -1,0 +1,68 @@
+body {
+    background-color: #3d5a80;
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style: none;
+    background-color: #ee6c4d;
+    margin: 0;
+    padding: 0;
+    height: 50px;
+
+
+}
+a {
+    text-decoration: none;
+    color: rgb(100, 19, 194);
+    padding: 20px;
+}
+li {
+    display: inline-block;
+    margin-left: 185px;
+    line-height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+}
+a:hover {
+    color: #fbd1a2;
+}
+li:hover {
+    background: #00b2ca;
+    color: white;
+    transition: all 0.3s ease;
+}
+.imgone {
+    width: 600px;
+    height: 400px;
+    margin-right: 50px;
+   margin-top: 50px;
+    float: right;
+}
+.ho {
+    margin-left: 250px;
+    margin-top: 50px;
+    color: #90cfee;
+}
+.chatgpt {
+    font-size: 26px;
+}
+img {
+    border: solid 3px black;
+}
+.imgtwo {
+    width: 600px;
+    height: 400px;
+    margin-right: 50px;
+    margin-top: 50px;
+    float: right;
+    clear: right;
+}
+.chatgpttwo {
+    font-size: 26px;
+}
+.hp {
+    margin-left: 310px;
+    margin-top: 50px;
+    color: #90cfee;
+}
