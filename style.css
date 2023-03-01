@@ -30,16 +30,39 @@ a:hover {
 li:hover {
     background: #00b2ca;
     color: white;
+    transition: all 0.3s ease;
 }
 .imgone {
     width: 600px;
     height: 400px;
-    float: right;
     margin-right: 50px;
-    margin-top: 50px;
+   margin-top: 50px;
+    float: right;
 }
 .ho {
     margin-left: 250px;
+    margin-top: 50px;
+    color: #90cfee;
+}
+.chatgpt {
+    font-size: 26px;
+}
+img {
+    border: solid 3px black;
+}
+.imgtwo {
+    width: 600px;
+    height: 400px;
+    margin-right: 50px;
+    margin-top: 50px;
+    float: right;
+    clear: right;
+}
+.chatgpttwo {
+    font-size: 26px;
+}
+.hp {
+    margin-left: 310px;
     margin-top: 50px;
     color: #90cfee;
 }
