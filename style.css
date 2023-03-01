@@ -1,0 +1,33 @@
+body {
+    background-color: #3d5a80;
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style: none;
+    background-color: coral;
+    margin: 0;
+    padding: 0;
+    height: 50px;
+
+
+}
+a {
+    text-decoration: none;
+    color: rgb(100, 19, 194);
+    padding: 20px;
+}
+li {
+    display: inline-block;
+    margin-left: 185px;
+    line-height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+}
+a:hover {
+    color: white;
+}
+li:hover {
+    background: olive;
+    color: white;
+}
