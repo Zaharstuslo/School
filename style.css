@@ -39,7 +39,7 @@ li:hover {
    margin-top: 50px;
     float: right;
 }
-.ho {
+.about_gpt {
     margin-left: 250px;
     margin-top: 50px;
     color: #90cfee;
@@ -61,7 +61,7 @@ img {
 .chatgpttwo {
     font-size: 26px;
 }
-.hp {
+.reviews {
     margin-left: 310px;
     margin-top: 50px;
     color: #90cfee;
@@ -72,9 +72,9 @@ img {
     }
     li {
         margin-left: 5px;
-    line-height: 50px;
-    font-size: 16px;
-    font-weight: bold;
+        line-height: 50px;
+        font-size: 16px;
+        font-weight: bold;
     }
     .imgone {
         width: 350px;
@@ -93,5 +93,18 @@ img {
     h1 {
         text-align: center;
     }
+    ul {
+        margin-left: 200px;
+    }
+}
+hr {
+    width: 100%;
+    height: 4px;
+    background: rgb(0, 255, 217);
+}
+.about_gpt_three {
+    margin-left: 310px;
+    margin-top: 50px;
+    color: #90cfee;
 }
 
