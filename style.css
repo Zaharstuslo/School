@@ -73,7 +73,7 @@ img {
     li {
         margin-left: 5px;
         line-height: 50px;
-        font-size: 16px;
+        font-size: 17px;
         font-weight: bold;
     }
     div .img_one {
@@ -128,7 +128,10 @@ img {
         margin-right: 5px;
     }
     #footer {
-        margin-left: 100px;
+        margin-left: 120px;
+    }
+    .hr {
+        width: 120px;
     }
 }
 hr {
