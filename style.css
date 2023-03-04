@@ -76,30 +76,56 @@ img {
         font-size: 16px;
         font-weight: bold;
     }
-    .img_one {
+    div .img_one {
         width: 350px;
         height: 250px;
         clear: right;
         margin-left: 200px;
     }
-    .img_two {
+    div .img_two {
         width: 350px;
         height: 250px;
         clear: right;
         margin-left: 200px;
     }
-    p, h1 {
+    div .img_three {
+        width: 350px;
+        height: 250px;
         clear: right;
+        margin-left: 200px;
     }
-    h1 {
-        text-align: center;
-        margin-right: 100px;
+    div .img_four {
+        width: 350px;
+        height: 250px;
+        clear: right;
+        margin-left: 200px;
     }
     ul {
         width: 450px;
     }
-    img, p, h1 {
-        clear: right;
+    #try_self {
+        margin-left: 80px;
+    }
+    #gpt_three {
+        margin-left: 60px;
+    }
+    #reviews {
+        margin-left: 80px;
+    }
+    #chat_gpt {
+        margin-left: 80px;
+    }
+    #img1 {
+        margin-right: 5px;
+    }
+    #img2 {
+        margin-right: 5px;
+    }
+    #img3 {
+        margin-right: 5px;
+    }
+    #img4 {
+        margin-right: 5px;
     }
 }
 hr {
@@ -144,7 +170,9 @@ hr {
 footer {
     height: 40px;
     margin-top: 250px;
-    text-align: center;
     background-color: #3c577a;
     line-height: 40px;
+}
+.footer {
+    margin-left: 600px;
 }
