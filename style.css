@@ -79,6 +79,10 @@ img {
     color: #90cfee;
 }
 
+.footer {
+    margin-left: 600px;
+}
+
 @media screen and (max-width:600px) {
     a {
         padding: 5px;
@@ -162,6 +166,7 @@ img {
     .hr {
         width: 500px;
     }
+
     #foot {
         margin-left: 220px;
     }
@@ -220,8 +225,4 @@ footer {
     margin-top: 250px;
     background-color: #3c577a;
     line-height: 40px;
-}
-
-.footer {
-    margin-left: 600px;
 }
