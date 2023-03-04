@@ -159,16 +159,12 @@ img {
         margin-right: 5px;
     }
 
-    #footer {
-        margin-left: 44px;
-    }
-
-    .hr {
-        width: 500px;
+    main hr {
+        width: 450px;
     }
 
     #foot {
-        margin-left: 80px;
+        margin-left: 50px;
     }
 }
 
