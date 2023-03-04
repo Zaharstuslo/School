@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 0;
 }
+
 ul {
     list-style: none;
     background-color: #ee6c4d;
@@ -12,6 +13,7 @@ ul {
 
 
 }
+
 a {
     text-decoration: none;
     color: rgb(100, 19, 194);
@@ -19,6 +21,7 @@ a {
     padding-left: 50px;
     padding-right: 50px;
 }
+
 li {
     display: inline-block;
     margin-left: 185px;
@@ -26,31 +29,38 @@ li {
     font-size: 20px;
     font-weight: bold;
 }
+
 a:hover {
     color: #fbd1a2;
 }
+
 li:hover {
     background: #00b2ca;
     color: white;
     transition: all 0.3s ease;
 }
+
 .img_one {
     width: 600px;
     height: 400px;
     margin-right: 50px;
     float: right;
 }
+
 .about_gpt {
     margin-left: 250px;
     margin-top: 50px;
     color: #90cfee;
 }
+
 .chat_gpt {
     font-size: 26px;
 }
+
 img {
     border: solid 3px black;
 }
+
 .img_two {
     width: 600px;
     height: 400px;
@@ -58,127 +68,160 @@ img {
     float: right;
     clear: right;
 }
+
 .chat_gpt_two {
     font-size: 26px;
 }
+
 .reviews {
     margin-left: 310px;
     margin-top: 50px;
     color: #90cfee;
 }
+
 @media screen and (max-width:600px) {
     a {
         padding: 5px;
     }
+
     li {
         margin-left: 5px;
         line-height: 50px;
         font-size: 16px;
         font-weight: bold;
     }
+
     div .img_one {
         width: 350px;
         height: 250px;
         clear: right;
         margin-left: 200px;
     }
+
     div .img_two {
         width: 350px;
         height: 250px;
         clear: right;
         margin-left: 200px;
     }
+
     div .img_three {
         width: 350px;
         height: 250px;
         clear: right;
         margin-left: 200px;
     }
+
     div .img_four {
         width: 350px;
         height: 250px;
         clear: right;
         margin-left: 200px;
     }
+
     ul {
         width: 450px;
     }
+
     #try_self {
         margin-left: 80px;
     }
+
     #gpt_three {
         margin-left: 60px;
     }
+
     #reviews {
         margin-left: 80px;
     }
+
     #chat_gpt {
         margin-left: 80px;
     }
+
     #img1 {
         margin-right: 5px;
     }
+
     #img2 {
         margin-right: 5px;
     }
+
     #img3 {
         margin-right: 5px;
     }
+
     #img4 {
         margin-right: 5px;
     }
+
     #footer {
-        width: 130px;
+        margin-left: 44px;
     }
+
     .hr {
         width: 500px;
     }
+    #foot {
+        margin-left: 220px;
+    }
 }
+
 hr {
     width: 100%;
     height: 4px;
     background: rgb(0, 255, 217);
 }
+
 .about_gpt_three {
     margin-left: 250px;
     margin-top: 50px;
     color: #90cfee;
 }
+
 .img_three {
     width: 600px;
     height: 400px;
     margin-right: 50px;
     float: right;
 }
+
 .gpt_three {
     font-size: 26px;
 }
+
 .try_self {
     margin-left: 250px;
     margin-top: 50px;
     color: #90cfee;
 }
+
 .img_four {
     width: 600px;
     height: 400px;
     margin-right: 50px;
     float: right;
 }
+
 .gpt_four {
     font-size: 26px;
 }
+
 .try {
     color: #1eb4ff;
 }
+
 .try:hover {
     transition: all 0.3s ease;
 }
+
 footer {
     height: 40px;
     margin-top: 250px;
     background-color: #3c577a;
     line-height: 40px;
 }
+
 .footer {
     margin-left: 600px;
 }
