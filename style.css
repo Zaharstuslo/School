@@ -164,10 +164,11 @@ img {
     }
 
     #foot {
-        margin-left: 70px;
+        margin-left: 80px;
     }
     #footer {
         width: 450px;
+        margin-top: 0px;
     }
 }
 
