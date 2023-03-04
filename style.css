@@ -16,6 +16,8 @@ a {
     text-decoration: none;
     color: rgb(100, 19, 194);
     padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 li {
     display: inline-block;
@@ -36,7 +38,6 @@ li:hover {
     width: 600px;
     height: 400px;
     margin-right: 50px;
-   margin-top: 50px;
     float: right;
 }
 .about_gpt {
@@ -54,7 +55,6 @@ img {
     width: 600px;
     height: 400px;
     margin-right: 50px;
-    margin-top: 50px;
     float: right;
     clear: right;
 }
@@ -73,7 +73,7 @@ img {
     li {
         margin-left: 5px;
         line-height: 50px;
-        font-size: 13px;
+        font-size: 16px;
         font-weight: bold;
     }
     .img_one {
@@ -116,7 +116,6 @@ hr {
     width: 600px;
     height: 400px;
     margin-right: 50px;
-    margin-top: 50px;
     float: right;
 }
 .gpt_three {
@@ -131,7 +130,6 @@ hr {
     width: 600px;
     height: 400px;
     margin-right: 50px;
-    margin-top: 50px;
     float: right;
 }
 .gpt_four {
@@ -142,4 +140,11 @@ hr {
 }
 .try:hover {
     transition: all 0.3s ease;
+}
+footer {
+    height: 40px;
+    margin-top: 250px;
+    text-align: center;
+    background-color: #3c577a;
+    line-height: 40px;
 }
