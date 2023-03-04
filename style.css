@@ -73,20 +73,20 @@ img {
     li {
         margin-left: 5px;
         line-height: 50px;
-        font-size: 16px;
+        font-size: 13px;
         font-weight: bold;
     }
     .img_one {
         width: 350px;
         height: 250px;
         clear: right;
-        margin-left: 20px;
+        margin-left: 200px;
     }
     .img_two {
         width: 350px;
         height: 250px;
         clear: right;
-        margin-left: 20px;
+        margin-left: 200px;
     }
     p, h1 {
         clear: right;
@@ -96,7 +96,7 @@ img {
         margin-right: 100px;
     }
     ul {
-        width: 400px;
+        width: 450px;
     }
     img, p, h1 {
         clear: right;
@@ -121,4 +121,25 @@ hr {
 }
 .gpt_three {
     font-size: 26px;
+}
+.try_self {
+    margin-left: 250px;
+    margin-top: 50px;
+    color: #90cfee;
+}
+.img_four {
+    width: 600px;
+    height: 400px;
+    margin-right: 50px;
+    margin-top: 50px;
+    float: right;
+}
+.gpt_four {
+    font-size: 26px;
+}
+.try {
+    color: #1eb4ff;
+}
+.try:hover {
+    transition: all 0.3s ease;
 }
